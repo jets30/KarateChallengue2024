@@ -23,5 +23,5 @@ Karate Challengue
 
 
 ### 4. Información adicional
--Cada feature tiene su etiqueta para ejecutar con el runner.
--Runner = src/test/java/bdd/Runner/RunnerTest.java con click derecho 'Run RunnerTest'
+- Cada feature tiene su etiqueta para ejecutar con el runner.
+- Runner = src/test/java/bdd/Runner/RunnerTest.java con click derecho 'Run RunnerTest'
