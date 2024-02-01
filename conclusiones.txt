@@ -1,0 +1,11 @@
+Hallazgos
+*Entre lo hallazgos que se encontraron tenemos los siguientes:
+-Se puede agregar una mascota n veces con los mismos datos.
+-Se puede enviar el body vacío y responderá exitoso cuando se agrega mascotas.
+-No todos los campos son obligatorios en el body cuando se agrega mascotas.
+-Si se consulta una mascota por un status que no exite , como resultado arroja un codigo 200
+
+Conclusiones
+*Finalemente tenemos que la automatización de servicios en Karate se realiza de forma sencilla y eficiente a comparación de otros frameworks 
+en donde se pueden realizar diversos tipos de pruebas y en donde la estructura de su lenguaje con sus palabras claves permite que sea fácil 
+de entender.
